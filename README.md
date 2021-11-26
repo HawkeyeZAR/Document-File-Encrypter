@@ -1,12 +1,12 @@
 ﻿Document and File Encrypter - C# WinForms .Net Application
 =====================================================
 
-This file and document encrypter was written in C# using WinForms and .Net
+This file & document encrypter was written in C# using WinForms and .Net.
 It uses the Rijndael Managed AES(256 bit) encryption.
 
 ----------
 
-
+![Alt text](/blob/main/DocumentEncrypter/image.png?raw=true)
 
 
 ----------
