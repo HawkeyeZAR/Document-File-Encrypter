@@ -1,0 +1,10 @@
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\DocumentEncrypter\bin\Debug\DocumentEncrypter.exe.config
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\DocumentEncrypter\bin\Debug\DocumentEncrypter.exe
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\DocumentEncrypter\bin\Debug\DocumentEncrypter.pdb
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\DocumentEncrypter\obj\Debug\DocumentEncrypter.csproj.AssemblyReference.cache
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\DocumentEncrypter\obj\Debug\DocumentEncrypter.Properties.Resources.resources
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\DocumentEncrypter\obj\Debug\DocumentEncrypter.csproj.GenerateResource.cache
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\DocumentEncrypter\obj\Debug\DocumentEncrypter.csproj.CoreCompileInputs.cache
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\DocumentEncrypter\obj\Debug\DocumentEncrypter.exe
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\DocumentEncrypter\obj\Debug\DocumentEncrypter.pdb
+C:\Users\HawkeyeZAR\Documents\Visual Studio 2022\Projects\DocumentEncrypter\obj\Debug\DocumentEncrypter.MainForm.resources
