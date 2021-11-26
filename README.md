@@ -1,5 +1,5 @@
-﻿Document and File Encrypter - C# WinForms .Net Application
-=====================================================
+﻿Document and File Encrypter
+============================
 
 This file & document encrypter was written in C# using WinForms and .Net.
 It uses the Rijndael Managed AES(256 bit) encryption.
