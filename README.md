@@ -6,7 +6,7 @@ It uses the Rijndael Managed AES(256 bit) encryption.
 
 ----------
 
-![Alt text](/blob/main/DocumentEncrypter/image.png?raw=true)
+![Alt text](HawkeyeZAR/Document-File-Encrypter/blob/main/DocumentEncrypter/image.png?raw=true)
 
 
 ----------
